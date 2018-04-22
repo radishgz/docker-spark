@@ -1,4 +1,4 @@
-FROM sequenceiq/hadoop-docker:2.6.0
+FROM sequenceiq/hadoop-docker:2.7.1
 MAINTAINER SequenceIQ
 
 #support for Hadoop 2.6.0
